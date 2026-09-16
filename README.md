@@ -34,15 +34,35 @@ Git • GitHub • VS Code • Jupyter
 
 ---
 
-## 🚀 Featured Work
+## 🚀 Professional Projects
 
-### 📦 Parcel Delivery Platform
+### 📦 Fikisha — Parcel Delivery Platform
 
-A full-stack parcel delivery application for creating, managing,
-and tracking deliveries.
+A full-stack parcel delivery application built collaboratively to
+create, manage, and track deliveries.
 
-**Stack:** React • Flask • PostgreSQL • Redux • Tailwind CSS
+**My contribution:** Frontend development using React, Redux, Vite
+and Tailwind CSS.
 
+---
+
+### ⚙️ Productivity Tool API
+
+A RESTful backend API for personal task management featuring
+authentication, authorization, secure password handling, and
+user-owned task operations.
+
+**Stack:** Python • Flask • Flask-RESTful • SQLAlchemy • Marshmallow
+
+---
+
+### ⛪ Church Management System
+
+A production-oriented church management platform focused on
+digitizing administrative operations, financial reporting, and
+church information management.
+
+**Status:** In development
 ---
 
 ## 🎯 Currently
